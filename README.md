@@ -29,16 +29,17 @@
 
 ### 🥗 University Cafeteria Nutrition Web App
 
-Personalized, sport-focused canteen web application for university athletes.
+- Personalized, sport-focused canteen web application for university athletes.
 
-**Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB
+- **Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB
 
 ---
 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your LinkedIn URL)*
+* 💼 LinkedIn: *www.linkedin.com/in/pasindu-mihikalpa
+* Vanity URL name
 * 💻 GitHub: *(This profile)*
 
 ---
