@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Pasindu Mihikalpa**
+# 👋 Hi, I'm **Pasindu Mihikalpa**
 
 > *Committed to knowledge, dedicated to solutions, empowered by connection.*
 
@@ -38,8 +38,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *www.linkedin.com/in/pasindu-mihikalpa
-* Personal Website:  pasindumihikalpa.dev
+* 💼 LinkedIn: https://www.linkedin.com/in/pasindu-mihikalpa
+* 🌐 Personal Website: https://pasindumihikalpa.dev
 * 💻 GitHub: *(This profile)*
 
 ---
