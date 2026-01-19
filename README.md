@@ -39,7 +39,7 @@
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: *www.linkedin.com/in/pasindu-mihikalpa
-* Vanity URL name
+* Personal Website *pasindumihikalpa.dev*
 * 💻 GitHub: *(This profile)*
 
 ---
